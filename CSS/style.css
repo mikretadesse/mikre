@@ -9,3 +9,7 @@ body {
   padding: 80px;
   margin: 10px;
 }
+.red {
+  background-color: brown;
+  color: white;
+}
