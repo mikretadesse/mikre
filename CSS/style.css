@@ -1,0 +1,11 @@
+.blue {
+  background-color: aqua;
+  color: black;
+}
+p {
+  background-color: beige;
+}
+body {
+  padding: 80px;
+  margin: 10px;
+}
